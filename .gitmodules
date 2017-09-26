@@ -1,3 +1,6 @@
 [submodule "PythonEssentials/student-materials"]
 	path = PythonEssentials/student-materials
 	url = https://github.com/Foundations-of-Applied-Mathematics/PythonEssentials-Student-Materials
+[submodule "data"]
+	path = data
+	url = https://github.com/Foundations-of-Applied-Mathematics/Data.git
