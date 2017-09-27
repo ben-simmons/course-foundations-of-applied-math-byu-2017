@@ -9,15 +9,13 @@
 
 1. `mkvirtualenv --python=/usr/local/bin/python3 byu-applied-math`
 1. `pip3 install --upgrade pip`
-1. `pip3 install numpy`
-1. `pip3 install matplotlib`
-1. `pip3 install sympy`
-1. `pip3 install jupyter`
+1. `pip3 install -r requirements.txt`
 
 ## Matplotlib
 
-You may have an issue importing `matplotlib`: `Python is not installed as a framework`.
+You may have an issue importing matplotlib on Mac: `Python is not installed as a framework`.
 See https://stackoverflow.com/questions/21784641/installation-issue-with-matplotlib-python for resolution.
 
 1. Make file `~/.matplotlib/matplotlibrc`
 1. Add code: `backend: TkAgg`
+
