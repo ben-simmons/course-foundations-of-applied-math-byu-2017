@@ -19,3 +19,10 @@ See https://stackoverflow.com/questions/21784641/installation-issue-with-matplot
 1. Make file `~/.matplotlib/matplotlibrc`
 1. Add code: `backend: TkAgg`
 
+## Jupyter
+
+Useful commands:
+
+* Start server: `jupyter notebook`
+* Command palette: `Command + Shift + P`
+* Run section: `Control + Enter`
