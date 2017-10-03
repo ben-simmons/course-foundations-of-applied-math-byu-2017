@@ -4,3 +4,6 @@
 [submodule "data"]
 	path = data
 	url = https://github.com/Foundations-of-Applied-Mathematics/Data.git
+[submodule "Volume1/student-materials"]
+	path = Volume1/student-materials
+	url = https://github.com/Foundations-of-Applied-Mathematics/Volume1-Student-Materials
